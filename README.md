@@ -54,6 +54,7 @@ Phone : (+82) 010-****-0922
 - Arduino
 - ROS
 - HTML
-
+- CSS
+- JAVASCRIPT
 
 
