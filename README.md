@@ -57,5 +57,6 @@ Phone : (+82) 010-****-0922
 - HTML
 - CSS
 - JAVASCRIPT
+- Design Pattern
 
 
