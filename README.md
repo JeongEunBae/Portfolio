@@ -21,6 +21,7 @@ Phone : (+82) 010-****-0922
   
 - Design Pattern 
 - C++
+- 자료구조
 - 알고리즘 문제 해결 
 
 ### 자격증
@@ -58,5 +59,5 @@ Phone : (+82) 010-****-0922
 - CSS
 - JAVASCRIPT
 - Design Pattern
-
+- ReactJS
 
