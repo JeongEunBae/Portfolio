@@ -53,6 +53,7 @@ Phone : (+82) 010-****-0922
 - C
 - C++
 - JAVA
+- PYTHON
 - Arduino
 - ROS
 - HTML
