@@ -23,6 +23,7 @@ Phone : (+82) 010-****-0922
 - C++
 - 자료구조
 - 알고리즘 문제 해결 
+- The Java® Language Specification 분석
 
 ### 자격증
 - 2017.03.24 리눅스 마스터 2급
@@ -48,6 +49,7 @@ Phone : (+82) 010-****-0922
 <br></br>
 - <b>알고리즘 대회 및 공모전</b>
   - 2020 Google Code Jam, Qualification Round 통과 [ 2020. 04 ~ 2020.05 (GMT + 9) ]
+  - 2020 클라우드 아이디어 경진대회 최우수상 수상
 
 ### 수행 프로젝트 및 경험 
 - Algorithm
@@ -62,4 +64,5 @@ Phone : (+82) 010-****-0922
 - JAVASCRIPT
 - Design Pattern
 - ReactJS
-- Spring
+- Spring Boot
+- Android
