@@ -1,7 +1,9 @@
 # Portfolio
 배정은, <b>JeongEun Bae</b></br>
 동의대학교 컴퓨터소프트웨어공학과 4학년 1학기 재학 <b>中</b>
-관심 연구 분야 :  Deep Learning, Machine Learning, Computer 
+
+관심 연구 분야 :  Deep Learning, Machine Learning, Computer
+
 ---
 ```2019.04 ~```<br>
 
