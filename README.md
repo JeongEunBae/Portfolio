@@ -27,7 +27,8 @@ Phone : (+82) 010-****-0922
 - Get Tour with AR Project ( AR를 활용한 학과 안내 어플리케이션 )
 
 ### 논문
-- '재난 극복을 위한 소상공인 기부 및 소비 촉진 플랫폼 설계 및 구현' 
+- '재난 극복을 위한 소상공인 기부 및 소비 촉진 플랫폼 설계 및 구현', ```한국정보처리학회``` [ 2020. 10. 19 ]
+
 ### 자격증
 - 2017.03.24 리눅스 마스터 2급
 - 2017.03.21 네트워크 관리사 2급 [ ~ 2022.03.20 ]
@@ -57,17 +58,35 @@ Phone : (+82) 010-****-0922
   - 2020 동아리연계캡스톤디자인Ⅰ 프로젝트 발표회 우수상(총장상) 수상 [ 2020. 12. 24 ]
   
 ### 수행 프로젝트 및 경험 
-- Algorithm
-- C
-- C++
 - JAVA
-- PYTHON
+  - 호텔관리시스템
+- Design Pattern ( JAVA )
+  - 학과커뮤니티시스템
+- C++
+  - 날씨 맞춤 옷추천 시스템 ( MFC Program )
+- HTML, CSS, JS
+  - 동의대학교 컴퓨터소프트웨어공학과 Web 유지 보수
 - Arduino
 - ROS
+  - MAZE System
+  - Robot Vacuum
+- ReactJS
+  - 도르리 ( 유해식품 식별 웹 플랫폼 ) ```2020 소프트웨어 개발 보안 경진대회```
+- Spring Boot
+  - SPEC ( 사용자 맞춤 정보 캘린더 ) ```Backend```
+- Android
+  - SPEC (사용자 맞춤 정보 캘린더 )
+- Oracle DataBase
+  - 동의대학교 행복기숙사 관리 시스템 ```CRUD```
+- AR
+
+### 사용 가능한 언어
+> 잘 다룰수 있는 언어는 **볼드체**로 표시
+
+- **C**
+- **C++**
+- **JAVA**
+- PYTHON
 - HTML
 - CSS
 - JAVASCRIPT
-- Design Pattern
-- ReactJS
-- Spring Boot
-- Android
