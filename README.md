@@ -30,6 +30,7 @@ Phone : (+82) 010-****-0922
 
 ### 논문 :books:
 - '재난 극복을 위한 소상공인 기부 및 소비 촉진 플랫폼 설계 및 구현', ```한국정보처리학회``` [ 2020. 10. 19 ]
+( Design and Implementation of a Platform to Promote Donation and Consumption of Small Businesses to Overcome Disasters )
 
 ### 자격증 :crown: 
 - 2017.03.24 리눅스 마스터 2급
