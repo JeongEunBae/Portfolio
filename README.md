@@ -34,14 +34,20 @@ Phone : (+82) 010-****-0922
 ### 자격증 :crown: 
 - 2017.03.24 리눅스 마스터 2급
 - 2017.03.21 네트워크 관리사 2급 [ ~ 2022.03.20 ]
-- 2020.08 DSAC 데이터 사이언티스트 능력인증자격 2급(전문가) 
+- 2020.08 ~ 2020.12 DSAC 데이터 사이언티스트 능력인증자격 2급(전문가) ```kpc(한국생산성본부)```
+<br></br>
+- **Certificate**
+  - DSAC Data Scientist Academy & Certificate **Data Programming** ```Passed``` [ 2020. 08. 14 ]
+  - DSAC Data Scientist Academy & Certificate **Data Process & Analysis** ```Passed``` [ 2020. 09. 04 ]
+  - DSAC Data Scientist Academy & Certificate **Machine Learning** ```Passed``` [ 2020. 09. 22 ]
+  - DSAC Data Scientist Academy & Certificate **Deep Learning** ```Passed``` [ 2020. 12. 04 ]
 <br></br>
 - **과정 수료**
-  - DSAC 데이터 사이언티스트 ```M1 과정``` 수료
-  - DSAC 데이터 사이언티스트 ```M2 과정``` 수료
+  - DSAC 데이터 사이언티스트 능력인증자격 전문교육훈련과정 ```M1.Data Programming 교육 과정``` 수료 [ 2020. 08. 03 ~ 2020. 08. 06 ]
+  - DSAC 데이터 사이언티스트 능력인증자격 전문교육훈련과정 ```M2.Data Process & Analysis 교육 과정``` 수료 [ 2020. 08. 24 ~ 2020. 08. 27 ]
   - SW 테스팅 과정 수료
-  - DSAC 데이터 사이언티스트 ```M3 과정``` 수료
-  - DSAC 데이터 사이언티스트 ```M4 과정``` 수료
+  - DSAC 데이터 사이언티스트 능력인증자격 전문교육훈련과정 ```M3.Machine Learning 교육 과정``` 수료 [ 2020. 09. 12 ~ 2020. 09. 20 ]
+  - DSAC 데이터 사이언티스트 능력인증자격 전문교육훈련과정 ```M4.Deep Learning 교육 과정``` 수료 [ 2020. 11. 21 ~ 2020. 11. 29 ]
 
 ### 외국어 성적 :abcd:
 - 2020.04.06 OPIC 영어(English), IL(Intermediate Low) [ ~ 2022.03.29 ]
@@ -64,7 +70,7 @@ Phone : (+82) 010-****-0922
 - <b>알고리즘 대회 및 공모전</b>
   - 2020 Google Code Jam, Qualification Round 통과 [ 2020. 04 ~ 2020.05 (GMT + 9) ]
   - 2020 클라우드 아이디어 경진대회 최우수상 수상 ```더존비즈온```[ 2020. 09. 28 ]
-  - 2020 동아리연계캡스톤디자인Ⅰ 프로젝트 발표회 우수상(총장상) 수상 [ 2020. 12. 24 ] 
+  - 2020 동아리연계캡스톤디자인Ⅰ 프로젝트 발표회 우수상(총장상) 수상 ```동의대학교``` [ 2020. 12. 29 ] 
   
 ### 수행 프로젝트 및 경험 :seedling:
 - JAVA
