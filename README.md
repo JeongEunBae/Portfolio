@@ -38,16 +38,16 @@ Phone : (+82) 010-****-0922
 <br></br>
 - **Certificate**
   - DSAC Data Scientist Academy & Certificate **Data Programming** ```Passed``` [ 2020. 08. 14 ]
-  - DSAC Data Scientist Academy & Certificate **Data Process & Analysis** ```Passed``` [ 2020. 09. 04 ]
+  - DSAC Data Scientist Academy & Certificate **Data Process Analysis** ```Passed``` [ 2020. 09. 04 ]
   - DSAC Data Scientist Academy & Certificate **Machine Learning** ```Passed``` [ 2020. 09. 22 ]
   - DSAC Data Scientist Academy & Certificate **Deep Learning** ```Passed``` [ 2020. 12. 04 ]
 <br></br>
 - **과정 수료**
-  - DSAC 데이터 사이언티스트 능력인증자격 전문교육훈련과정 ```M1.Data Programming 교육 과정``` 수료 [ 2020. 08. 03 ~ 2020. 08. 06 ]
-  - DSAC 데이터 사이언티스트 능력인증자격 전문교육훈련과정 ```M2.Data Process & Analysis 교육 과정``` 수료 [ 2020. 08. 24 ~ 2020. 08. 27 ]
+  - DSAC 데이터 사이언티스트 능력인증자격 전문교육훈련과정 ```M1.Data Programming 교육과정``` 수료 [ 2020. 08. 03 ~ 2020. 08. 06 ]
+  - DSAC 데이터 사이언티스트 능력인증자격 전문교육훈련과정 ```M2.Data Process & Analysis 교육과정``` 수료 [ 2020. 08. 24 ~ 2020. 08. 27 ]
   - SW 테스팅 과정 수료
-  - DSAC 데이터 사이언티스트 능력인증자격 전문교육훈련과정 ```M3.Machine Learning 교육 과정``` 수료 [ 2020. 09. 12 ~ 2020. 09. 20 ]
-  - DSAC 데이터 사이언티스트 능력인증자격 전문교육훈련과정 ```M4.Deep Learning 교육 과정``` 수료 [ 2020. 11. 21 ~ 2020. 11. 29 ]
+  - DSAC 데이터 사이언티스트 능력인증자격 전문교육훈련과정 ```M3.Machine Learning 교육과정``` 수료 [ 2020. 09. 12 ~ 2020. 09. 20 ]
+  - DSAC 데이터 사이언티스트 능력인증자격 전문교육훈련과정 ```M4.Deep Learning 교육과정``` 수료 [ 2020. 11. 21 ~ 2020. 11. 29 ]
 
 ### 외국어 성적 :abcd:
 - 2020.04.06 OPIC 영어(English), IL(Intermediate Low) [ ~ 2022.03.29 ]
