@@ -37,7 +37,7 @@ Phone : (+82) 010-****-0922
 - 2017.03.21 네트워크 관리사 2급 [ ~ 2022.03.20 ]
 - 2020.08 ~ 2020.12 DSAC 데이터 사이언티스트 능력인증자격 2급(전문가) ```kpc(한국생산성본부)```
 <br></br>
-- **Certificate**
+- **Certificate** :sparkles:
   - DSAC Data Scientist Academy & Certificate **Data Programming** ```Passed``` [ 2020. 08. 14 ]
   - DSAC Data Scientist Academy & Certificate **Data Process Analysis** ```Passed``` [ 2020. 09. 04 ]
   - DSAC Data Scientist Academy & Certificate **Machine Learning** ```Passed``` [ 2020. 09. 22 ]
