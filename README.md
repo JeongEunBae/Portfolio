@@ -94,9 +94,11 @@ Phone : (+82) 010-****-0922
   - SPEC ( 사용자 맞춤 정보 캘린더 ) ```Backend```
 - Android
   - SPEC (사용자 맞춤 정보 캘린더 )
+  - Get Tour with AR
 - Oracle DataBase
   - 동의대학교 행복기숙사 관리 시스템 ```CRUD```
-- AR
+- PHP
+  - Get Tour with AR
 
 ### 사용 가능한 언어 :capital_abcd:
 > 잘 다룰수 있는 언어는 **볼드체**로 표시
