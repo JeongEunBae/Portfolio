@@ -26,7 +26,7 @@ Phone : (+82) 010-****-0922
 - 자료구조
 - 알고리즘 문제 해결 
 - The Java® Language Specification 분석
-- Get Tour with AR Project ( AR를 활용한 학과 안내 어플리케이션 )
+- Get Tour with AR Project ( AR를 활용한 학과 안내 어플리케이션 ) ```
 
 ### 논문 :books:
 - '재난 극복을 위한 소상공인 기부 및 소비 촉진 플랫폼 설계 및 구현', ```한국정보처리학회``` [ 2020. 10. 19 ]
