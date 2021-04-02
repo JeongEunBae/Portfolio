@@ -92,13 +92,14 @@ Phone : (+82) 010-****-0922
   - 은성제과제빵학원 Web Front-End
 - Spring Boot
   - SPEC ( 사용자 맞춤 정보 캘린더 ) ```Backend```
+  - Co-ARi ( AR를 활용한 학과 안내 애플리케이션 ) ```Backend``` ```Android Client(AR)```
 - Android
   - SPEC (사용자 맞춤 정보 캘린더 )
   - Get Tour with AR
 - Oracle DataBase
   - 동의대학교 행복기숙사 관리 시스템 ```CRUD```
 - PHP
-  - Get Tour with AR
+  - 은성제과제빵학원
 
 ### 사용 가능한 언어 :capital_abcd:
 > 잘 다룰수 있는 언어는 **볼드체**로 표시
