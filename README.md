@@ -26,7 +26,7 @@ Phone : (+82) 010-****-0922
 - 자료구조
 - 알고리즘 문제 해결 
 - The Java® Language Specification 분석
-- Get Tour with AR Project ( AR를 활용한 학과 안내 어플리케이션 ) ```
+- Co-ARi AR Project ( AR를 활용한 학과 안내 어플리케이션 ) ```
 
 ### 논문 :books:
 - '재난 극복을 위한 소상공인 기부 및 소비 촉진 플랫폼 설계 및 구현', ```한국정보처리학회``` [ 2020. 10. 19 ]
@@ -92,10 +92,10 @@ Phone : (+82) 010-****-0922
   - 은성제과제빵학원 Web Front-End
 - Spring Boot
   - SPEC ( 사용자 맞춤 정보 캘린더 ) ```Backend```
-  - Co-ARi ( AR를 활용한 학과 안내 애플리케이션 ) ```Backend``` ```Android Client(AR)```
+  - Co-ARi ( AR를 활용한 학과 안내 애플리케이션 ) ```Backend``` 
 - Android
   - SPEC (사용자 맞춤 정보 캘린더 )
-  - Get Tour with AR
+  - Co-ARi ( AR를 활용한 학과 안내 애플리케이션 ) ```Android Client(AR)```
 - Oracle DataBase
   - 동의대학교 행복기숙사 관리 시스템 ```CRUD```
 - PHP
