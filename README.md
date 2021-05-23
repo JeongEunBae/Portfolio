@@ -36,6 +36,7 @@ Phone : (+82) 010-****-0922
 - 2017.03.24 리눅스 마스터 2급
 - 2017.03.21 네트워크 관리사 2급 [ ~ 2022.03.20 ]
 - 2020.08 ~ 2020.12 DSAC 데이터 사이언티스트 능력인증자격 2급(전문가) ```kpc(한국생산성본부)```
+- 정보처리기사
 <br></br>
 - **Certificate** :sparkles:
   - DSAC Data Scientist Academy & Certificate **Data Programming** ```Passed``` [ 2020. 08. 14 ]
