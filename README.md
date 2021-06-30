@@ -109,7 +109,7 @@ Phone : (+82) 010-8380-0922
 ### 수행 프로젝트 및 경험 :seedling:
 - **치아 관리 서비스 TO'S**
   - 올바른 치아 습관 및 치아 건강을 위한 사용자 맞춤 치아 관리 서비스 Android 애플리케이션
-  - Platform : Android / Tech : Android Studio, Spring, **YOLO**
+  - Platform : Android / Tech : Android Studio, Spring, **YOLO** / Language : JAVA, PYTHON
   - 수행한 역할 :  치아 관리 서비스인 To'S의 칫솔 교체 주기 알림이 기능 개발 ( 객체 인식 모듈인 YOLO를 활용한 칫솔모의 상태를 판별하여 마모 상태 결과에 따른 교체 주기를 사용자에게 알려준다. ) ```팀원, 인공지능 파트```
 <br></br>
   > 마모된 칫솔모를 사용할 경우 마모되지 않은 칫솔을 사용할 때보다 세균의 수가 증가하여 치아 건강에 영향을 미치므로 칫솔모의 상태를 파악할 수 있는 시스템 구현하였다. 사용자가 휴대폰 카메라로 칫솔모의 사진을 찍은 후 사진을 분석한다. 
@@ -120,16 +120,16 @@ Phone : (+82) 010-8380-0922
 
 - **AR를 활용한 학과 안내 애플리케이션 Co-ARi**
   - 강의실을 찾지못하거나 학과 강의실 정보가 부족한 신입생, 재학생을 위한 증강현실 학과 안내 Android 애플리케이션
-  - Platform : Android, Web / Tech : Android Studio, **Spring Boot**, Web(HTML, JAVASCRIPT, CSS), **ARCore**
+  - Platform : Android, Web / Tech : Android Studio, **Spring Boot**, Web(HTML, JAVASCRIPT, CSS), **ARCore** / Language : JAVA, HTML, JAVASCRIPT, CSS
   - 수행한 역할 : 학과 정보 저장 및 제공하는 서버 개발, 증강현실을 활용한 학과 정보 출력 기능 개발 ( 클라이언트(안드로이드)에서 학과 정보, 앵커 정보 등을 요청할 시 그에 대한 정보를 제공한다. 또한, 제공받은 학과 정보와 앵커 위치 정보를 활용하여 AR 환경으로 사용자에게 보여준다.) ```팀장, BACKEND, AR 파트```
 <br></br>
   > 학과 호실의 동적인 정보를 Google에서 제공하는 AR Core 라이브러리를 사용한 증강현실 내에 보여줘 사용자들이 쉽게 제공받을 수 있도록 구현하였다.
 
-  > 정보를 제공하는 서버는 Spring Boot로 구축하여 REST API를 통해 JSON 파일을 통해 전달하고 저장하도록 구현하였다. 정보는 앵커 정보(호실 강의실 정보), 알림 정보, 사용자 정보, 공지사항 정보, 학과소식 정보, 졸업생 정보를 제공한다.
+  > 정보를 제공하는 서버는 MVC 패턴으로 Spring Boot을 활용해 구축하여 REST API를 통해 JSON 파일을 통해 전달하고 저장하도록 구현하였다. 정보는 앵커 정보(호실 강의실 정보), 알림 정보, 사용자 정보, 공지사항 정보, 학과소식 정보, 졸업생 정보를 제공한다.
 
 - **교사를 대상으로 한 온라인 강의 및 학습 콘텐츠 제작 플랫폼 CEDU**
   - COVID19로 인해 교사 업무가 과중되므로 넷플릭스’, ‘YouTube’와 같은 플랫폼에서 사용되는 알고리즘을 비대면 수업과 연관 지어 교사가 가지는 수업 콘텐츠 제작의 부담을 덜 수 있는 '교사를 위한 학습 콘텐츠 추천 및 제작 플랫폼' 아이디어 제안 및 연구 진행
-  - Platform : Web / Tech : ReactJS, Spring Boot, Machine Learning(sklearn 라이브러리 사용), KNN 기법 사용 
+  - Platform : Web / Tech : ReactJS, Spring Boot, Machine Learning(sklearn 라이브러리 사용), KNN 기법 사용 / Language : PYTHON
   - 수행한 역할 : 아이디어 제안 및 필터링 알고리즘을 활용하여 추천 알고리즘 설계
 <br></br>
   > 사용자에게 학습 콘텐츠를 추천하여 학습할수 있도록 하는 기능을 제작하였다. 학습 콘텐츠 추천 기능은 머신러닝을 활용한 콘텐츠 기반 필터링 알고리즘과 딥러닝 기법인 KNN 활용한 협업 필터링 알고리즘을 조합한 하이브리드 추천 알고리즘 방식으로 설계하였다.
@@ -140,45 +140,62 @@ Phone : (+82) 010-8380-0922
 
 - **은성제과제빵커피학원 웹 페이지 외주 작업**
   - Adobe Flash Player가 종료되어 swf 파일로 주로 이루어진 홈페이지가 제대로 동작하지 않았고 이 문제점을 보완하기 위해 HTML로 변경하는 프로젝트를 진행
-  - Platform : Web / Tech : Web(HTML, JAVASCRIPT, CSS), PHP
+  - Platform : Web / Tech : Web(HTML, JAVASCRIPT, CSS), PHP / Language : HTML, JAVASCRIPT, CSS
 <br></br>
   > 정적파일인 HTML, CSS, 동적 파일인 Javascript와 그를 처리하는 PHP를 사용하여 고객의 요구사항에 맞춰 작업을 진행하였다. 이 경험을 토대로 실제 고객과 작업을 진행하면서 고객의 니즈에 맞춰 소프트웨어의 품질을 높이는 활동을 배우게 되었다. 
 
 - **사용자 맞춤 정보 캘린더 SPEC**
   - 취업 준비생이나 대외활동의 정보를 얻고 싶은 대학생 또는 자기계발 하고 싶은 누구에게나 사용자의 관심 분야를 기반으로 한 정보를 알려주며, 사용자의 일정 관리도 돕는 Android 애플리케이션
-  - Platform : Android / Tech : Android, Spring Boot
+  - Platform : Android / Tech : Android, Spring Boot / Language : JAVA
   - 수행한 역할 : 안드로이드에서 요청한 정보를 제공하는 서버를 개발하고 정보를 저장하기 위해 웹 크롤링을 통해 정보를 가져온 역할을 수행했다. ```팀장, BACKEND 파트```
 <br></br>
   > 애플리케이션 ‘SPEC’은 취업 준비생, 대학생 또는 누구나 자기계발을 할 수 있게 맞춤 정보, 공모전, 자격증, 어학 등 개인적인 스펙을 올리는 것과 동시에 주변의 축제까지 소개해 폭 넓은 나이층을 가질 수 있고 그 모든 것을 일정에 등록해 개인적인 일정관리까지 돕는 앱이다. 
   
   > 일정 관리 기능, 사용자 맞춤 정보 추천, 활동 신청 기능, 일정 검색 기능, 마이 페이지 기능을 사용자에게 제공한다.
+
+  > 정보를 제공하는 서버는 MVC 패턴으로 Spring Boot을 활용해 구축하여 REST API를 통해 JSON 파일을 통해 전달하고 저장하도록 구현하였다.
  
- 
-- JAVA
-  - 호텔관리시스템
-- Design Pattern ( JAVA )
-  - 학과커뮤니티시스템
-- C++
-  - 날씨 맞춤 옷추천 시스템 ( MFC Program )
-- HTML, CSS, JS
-  - 동의대학교 컴퓨터소프트웨어공학과 Web 유지 보수
-- Arduino
-- ROS
-  - MAZE System
-  - Robot Vacuum
-- ReactJS
-  - 도르리 ( 유해식품 식별 웹 플랫폼 ) ```2020 소프트웨어 개발 보안 경진대회```
-  - 은성제과제빵학원 Web Front-End
-- Spring Boot
-  - SPEC ( 사용자 맞춤 정보 캘린더 ) ```Backend```
-  - Co-ARi ( AR를 활용한 학과 안내 애플리케이션 ) ```Backend``` 
-- Android
-  - SPEC (사용자 맞춤 정보 캘린더 )
-  - Co-ARi ( AR를 활용한 학과 안내 애플리케이션 ) ```Android Client(AR)```
-- Oracle DataBase
-  - 동의대학교 행복기숙사 관리 시스템 ```CRUD```
-- PHP
-  - 은성제과제빵학원
+ - **ROS를 활용한 MAZE System, RobotSystem**
+  - 주어진 미로 지도에서 로봇이 도착점에 도달 한 뒤 다시 시작점으로 가면서 미로를 탈출하는 시스템
+  - 주어진 공간에서 로봇 청소기가 외곽선을 따라, 이동하며 청소할 구역을 탐색한 후 시작점으로 이동하여 본격적으로 장애물 또는 벽을 감지하여 우회하면서 청소하는 시스템
+  - Platform : Linux / Tech : ROS / Language : PYTHON
+  - 수행한 역할 : ROS를 활용한 로봇 미로 탈출 시스템 개발 ```팀장, 미로 탈출 시스템 개발 파트```
+<br></br>
+  > LaserScan에서의 scan 토픽을 구독하여 [전방, 후방, 좌측, 우측] 데이터 형식으로 처리하여 Lidar 센서의 데이터를 저장한다.
+
+  > 저장된 데이터를 활용하여 벽을 피하고 BFS 알고리즘인 너비우선탐색을 통해 길을 탐색 하여 Back Tracking으로 경로를 만들어갔다.
+
+- **유해식품 식별 웹 플랫폼, 도르리**
+  - 포스트코로나시대에 맞춰 언택트 서비스가 활성화되어 쇼핑몰 사이트에서 유해 식품을 판별하여 사용자에게 정보를 알려주는 웹 플랫폼과 구글 확장 프로그램을 개발
+  - Platform : Web, Google Chrome Extension / Tech : React, Spring Boot / Language : HTML, JAVASCRIPT, CSS, JAVA
+  - 수행한 역할 : React를 사용하여 웹 플랫폼 Front-End 제작 ```팀원, FrontEnd 파트```
+<br></br>
+  > 행정안전부에서 주최하는 제7호 소프트웨어 개발 보안 경진대회에 출전하여 쇼핑몰사이트에서 유해 식품을 식별하여 사용자에게 정보를 알려주는 웹 플랫폼과 구글 확장 프로그램을 시큐어 코딩에 접목해 개발
+
+  > MVC 패턴을 활용하여 서버에서 제공된 JSON 파일을 활용하여 사용자에게 보여주는 View 작업을 진행하였다.
+
+- **재난 극복을 위한 소상공인 기부 및 소비 촉진 플랫폼, ConnectUs**
+  - COVID19로 인해 비대면 소비가 증가하면서 소상공인의 매출 하락이 문제 되므로 소상공인들이 온라인에서 물품을 등록하고 판매할 수 있는 전용 공간을 제공하고 크라우드 도네이션 기능을 제공하는 플랫폼
+  - Platform : Web / Tech : React, Spring Boot / Language : HTML, JAVASCRIPT, CSS, JAVA
+  - 수행한 역할 : React를 사용하여 웹 플랫폼 Front-End 제작 ```팀원, FrontEnd 파트```
+<br></br>
+  > '한국정보산업연합회'에서 주관하는 ICT 한이음 멘토링에 참가하여 타 학교 학생들과 프로젝트를 진행하였다. 멘토는 라인에서 근무하는 현직 개발자로, 팀원에게 실무 관련 지식과 실무와 밀접하게 프로젝트 방향성을 잡아주셨다. 
+
+  > 이 멘토링에서 실무에서 사용하는 기술인 Spring과 AWS 적용 및 프로젝트 관리의 경험을 얻게 되었으며, 멘토링이 끝난 후, ‘재난 극복을 위한 소상공인 기부 및 소비 촉진 플랫폼 설계 및 구현’이라는 논문 주제로 2020 한국정보처리학회 학술대회논문집에 게재하였다.
+  
+- **동의대학교 행복기숙사 관리 시스템**
+  - 행복기숙사 호실 관리, 관생 관리, 식당 관리 기능을 포함한 전반적인 기숙사 관리 시스템
+  - Language : PL/SQL 
+  - 수행한 역할 : 호실 정보 입력, 관생 정보 입력, 식당 정보 입력, 출입 정보 입력과 같은 Create 기능 개발 ```팀장 Create 파트```
+  
+- **컴퓨터소프트웨어공학과 커뮤니티 시스템 CSE-Communication-Service**
+  - COVID19로 인해 등교하지 못하는 신입생의 고충을 덜기 위해 학과 생활 정보와 과제, 궁금증 등을 공유할 수 있는 프로그램
+  - Language : JAVA
+  - 수행한 역할 : 채팅 기능, 클라이언트 요청에 따른 데이터 정보 전달하는 서버 개발 및 데이터베이스 개발, 클라이언트 GUI ```팀장, FullStack```
+<br></br>
+  > Design Pattern을 활용하여 소프트웨어 품질을 높여 개발하였다. Iterator Pattern을 게시판 기능에 적용하고, Observer Pattern을 댓글 알림 기능에 적용하였으며, Proxy Pattern, State Pattern를 활용하여 채팅 기능을 적용하였고 생성패턴인 Builder Pattern을 적용하여 구성하였다.
+  
+  > 서버는 Java.net의 Socket을 사용하여 Singleton Pattern을 적용하여 구축하였다.  
 
 ### 사용 가능한 언어 :capital_abcd:
 > 잘 다룰수 있는 언어는 **볼드체**로 표시
