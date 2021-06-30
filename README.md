@@ -58,9 +58,9 @@ Phone : (+82) 010-8380-0922
 ### 소프트웨어 역량 검정(TOPCIT) :trophy:
 - 2021.05.22 TOPCIT, 3수준 415점(평균 득점 : 187.0점 상위 10% 득점 : 417.9점) 
 - **산업계 부합도 및 전체영역 진단결과**
-<img src="totalResult">
+<img src="totalResult.PNG">
 - **점수 분포**
-<img src="scoreResult">
+<img src="scoreResult.PNG">
 
 ### 외국어 성적 :abcd:
 - 2020.04.06 OPIC 영어(English), IL(Intermediate Low) [ ~ 2022.03.29 ]
