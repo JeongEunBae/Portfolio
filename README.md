@@ -2,14 +2,14 @@
 배정은, <b>JeongEun Bae</b></br>
 동의대학교 컴퓨터소프트웨어공학과 4학년 1학기 재학 <b>中</b>
 
-관심 연구 분야 :  Deep Learning, Machine Learning, Computer
+관심 연구 분야 :  Natural Language Processing, Machine Learning, Computer Vision
 
 ---
 ```2019.04 ~```<br>
 
 동의대학교 컴퓨터소프트웨어공학과 이종민 교수님의 Computer Network & Robot Software(ROS) 연구실 소속입니다.</br>
 Email : je_0922@naver.com</br>
-Phone : (+82) 010-****-0922
+Phone : (+82) 010-8380-0922
 
 ### 연구실 활동 :mortar_board:
 - <b>ROS(Robot Operation System)</b>
@@ -20,23 +20,27 @@ Phone : (+82) 010-****-0922
   
 - YOLO를 사용한 사람, 사물 인식 및 각 패키지 분석
 - GPU 사용법 세미나 진행 - YOLO 기본 환경
-  
-- Design Pattern 
-- C++
-- 자료구조
-- 알고리즘 문제 해결 
-- The Java® Language Specification 분석
-- Co-ARi AR Project ( AR를 활용한 학과 안내 어플리케이션 ) ```
+- YOLO를 활용한 엘리베이터 버튼 인식 
 
-### 논문 :books:
-- '재난 극복을 위한 소상공인 기부 및 소비 촉진 플랫폼 설계 및 구현', ```한국정보처리학회``` [ 2020. 10. 19 ]
+- Design Pattern 
+- C++ Reference 분석
+- 자료구조, 알고리즘을 활용하여 문제 해결 
+- The Java® Language Specification 분석
+
+### 학술논문 :books:
+- '재난 극복을 위한 소상공인 기부 및 소비 촉진 플랫폼 설계 및 구현', ```2020 한국정보처리학회 추계학술발표대회``` [ 2020. 10. 19 ]
 ( Design and Implementation of a Platform to Promote Donation and Consumption of Small Businesses to Overcome Disasters )
+- '칫솔모 상태 판별을 위한 객체 탐지 시스템에 관한 연구', ```2021 한국정보기술학회 대학생논문경진대회``` [2021.06.04]
+( A Research on Object detection system for determining toothbrush cap status )
+- '교사를 위한 AI 학습 콘텐츠 추천 및 제작 플랫폼에 관한 연구', ```2021 한국경영정보학회 학술대회(한국인터넷전자상거래학회)``` [2021.06]
+- 'AI 콘텐츠 추천 및 제작 플랫폼에 관한 연구 (유아의 콘텐츠 소비 성향 분석을 기반)', ```2021 한국통신학회 하계학술대회``` [2021.06]
 
 ### 자격증 :crown: 
-- 2017.03.24 리눅스 마스터 2급
-- 2017.03.21 네트워크 관리사 2급 [ ~ 2022.03.20 ]
+- 2017.03.24 리눅스 마스터 2급 ```한국정보통신진흥협회```
+- 2017.03.21 네트워크 관리사 2급 ```한국정보통신자격협회``` [ ~ 2022.03.20 ]
+- 2017.08.16 정보처리기능사 ```한국산업인력공단```
 - 2020.08 ~ 2020.12 DSAC 데이터 사이언티스트 능력인증자격 2급(전문가) ```kpc(한국생산성본부)```
-- 정보처리기사
+- 2021.06.02 정보처리기사 ```한국산업인력공단```
 <br></br>
 - **Certificate** :sparkles:
   - DSAC Data Scientist Academy & Certificate **Data Programming** ```Passed``` [ 2020. 08. 14 ]
@@ -53,7 +57,6 @@ Phone : (+82) 010-****-0922
 
 ### 외국어 성적 :abcd:
 - 2020.04.06 OPIC 영어(English), IL(Intermediate Low) [ ~ 2022.03.29 ]
-- TOEIC 850 예정
 
 ### 경력 및 대외 활동 내역 :raised_hands:
 - Im4u 정보영재컴퓨터학원 ```강사``` [ 2018.02 ~ 2019. 04 ]
@@ -74,7 +77,9 @@ Phone : (+82) 010-****-0922
   - 2020 Google Code Jam, Qualification Round 통과 [ 2020. 04 ~ 2020.05 (GMT + 9) ]
   - 2020 클라우드 아이디어 경진대회 최우수상 수상 ```더존비즈온```[ 2020. 09. 28 ]
   - 2020 동아리연계캡스톤디자인Ⅰ 프로젝트 발표회 우수상(총장상) 수상 ```동의대학교``` [ 2020. 12. 29 ] 
-  
+  - 2021 한국정보기술학회 대학생 논문경진대회 우수논문상(동상) 수상 ```한국정보기술학회``` [ 2020. 06. 04 ]
+  - 2021 춘계통합학술대회 대학(원)생 공모전 장려상 수상 ```한국경영정보학회``` [ 2020. 06. 19 ]
+
 ### 수행 프로젝트 및 경험 :seedling:
 - JAVA
   - 호텔관리시스템
