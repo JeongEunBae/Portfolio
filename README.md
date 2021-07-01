@@ -205,7 +205,7 @@ Phone : (+82) 010-8380-0922
 - **C**
 - **C++**
 - **JAVA**
-- PYTHON
+- **PYTHON**
 - HTML
 - CSS
 - JAVASCRIPT
