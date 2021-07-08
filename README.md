@@ -200,13 +200,8 @@ Phone : (+82) 010-8380-0922
   > 서버는 Java.net의 Socket을 사용하여 Singleton Pattern을 적용하여 구축하였다.  
 
 ### 사용 가능한 언어 :capital_abcd:
-> 잘 다룰수 있는 언어는 **볼드체**로 표시
 
-- **C**
-- **C++**
-- **JAVA**
-- **PYTHON**
-- HTML
-- CSS
-- JAVASCRIPT
-- Kotlin
+- C
+- C++
+- JAVA
+- PYTHON
