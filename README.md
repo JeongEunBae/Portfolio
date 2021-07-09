@@ -31,10 +31,31 @@ Phone : (+82) 010-8380-0922
 ### 학술논문 :books:
 - '재난 극복을 위한 소상공인 기부 및 소비 촉진 플랫폼 설계 및 구현', ```2020 한국정보처리학회 추계학술발표대회``` [ 2020. 10. 19 ]
 ( Design and Implementation of a Platform to Promote Donation and Consumption of Small Businesses to Overcome Disasters )
+  - 정인환 ( In-hwan Jeong ) , 배정은 ( Jung-eun Bae ) , 김한비 ( Han-bi Kim ) , 하현준 ( Hyun-joon Ha ) , 이수영 ( Soo-young Lee ). 2020. 재난 극복을 위한 소상공인 기부 및 소비 촉진 플랫폼 설계 및 구현. 한국정보처리학회 학술대회논문집, 27(2): 713-716
+
+  > Abstract
+
+  >  본 논문에서는 소상공인들이 온라인에서 물품을 등록하고 판매할 수 있는 전용 공간이며 크라우드 도네이션 기능을 제공하는 플랫폼을 제안했다. 크라우드 도네이션이란 재난 발생시 특정 지역
+에 필요한 물품을 소상공인에게서 얻고 소비자가 크라우드 펀딩 형식으로 가격을 지불한 후 플랫폼에서 자체적으로 재난 지역에 구호 물품을 배송해주는 것이다. 제안한 플랫폼을 웹으로 구현하였다.
+
 - '칫솔모 상태 판별을 위한 객체 탐지 시스템에 관한 연구', ```2021 한국정보기술학회 대학생논문경진대회``` [2021.06.04]
 ( A Research on Object detection system for determining toothbrush cap status )
+  - 배정은, 전규빈, 장희숙. (2021). 칫솔모 상태 판별을 위한 객체 탐지 시스템에 관한 연구. 한국정보기술학회 종합학술발표논문집, (), 643-647.
+  
+  > Abstract
+  
+  > 칫솔모가 마모될 경우 치면세균막 제거율이 많이 떨어지고 세균의 수도 증가하게 된다. 칫솔모의 상태는 치아 관리에 영향을 미치므로 새로운 칫솔로 교환해야 한다. 이에 본 연구에서는 칫솔모의 상태를 확인하여 변경을 권고하는 시스템을 연구 개발하였다. 학습 과정은 약 3970개의 칫솔모 이미지를 수집하고 YOLO 신경망을 활용하여 학습 결과물을 도출하였다 본 시스템은 모델 성능 평가(mAP) 99.67%, 정밀도(Precision) 99% 정도로 우수한 성능을 보여준다.
+
+
 - '교사를 위한 AI 학습 콘텐츠 추천 및 제작 플랫폼에 관한 연구', ```2021 한국경영정보학회 학술대회(한국인터넷전자상거래학회)``` [2021.06]
+  - 배정은,장희숙. "교사를 위한 AI 학습 콘텐츠 추천 및 제작 플랫폼에 관한 연구" 2021 한국경영정보학회 춘계통합학술대회 (2021): 282-287.
+  
+  > Abstract
+
+  > This study utilizes AI to recommend customized learning content to reduce the burden of teacher's class content production, and conducts research on educational platforms that analyze students' insufficient learning capabilities and also recommend content for them.
+
 - 'AI 콘텐츠 추천 및 제작 플랫폼에 관한 연구 (유아의 콘텐츠 소비 성향 분석을 기반)', ```2021 한국통신학회 하계학술대회``` [2021.06]
+  - 
 
 ### 자격증 :crown: 
 - 2017.03.24 리눅스 마스터 2급 ```한국정보통신진흥협회```
