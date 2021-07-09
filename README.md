@@ -55,7 +55,6 @@ Phone : (+82) 010-8380-0922
   > This study utilizes AI to recommend customized learning content to reduce the burden of teacher's class content production, and conducts research on educational platforms that analyze students' insufficient learning capabilities and also recommend content for them.
 
 - 'AI 콘텐츠 추천 및 제작 플랫폼에 관한 연구 (유아의 콘텐츠 소비 성향 분석을 기반)', ```2021 한국통신학회 하계학술대회``` [2021.06]
-  - 
 
 ### 자격증 :crown: 
 - 2017.03.24 리눅스 마스터 2급 ```한국정보통신진흥협회```
@@ -92,7 +91,7 @@ Phone : (+82) 010-8380-0922
 - <b>경력 :gem:</b>
   - Im4u 정보영재컴퓨터학원 ```강사``` [ 2018.02 ~ 2019. 04 ]
   - 동의대학교 컴퓨터소프트웨어공학과 이종민 교수님 연구실 소속 ```연구생``` [ 2019. 04 ~ 현재] 
-  - 한국전자통신연구원(ETRI) ```하계연구연수생``` [ 2021.07 - 2021. 08 ]
+  - 한국전자통신연구원(ETRI) ```하계연구연수생``` [ 2021.07 - 현재 ]
 
 - <b>교내 활동 내역 :diamonds:</b>
   - 동의대학교 컴퓨터소프트웨어공학과 학생회 ```홍보부장``` [ 2019. 01 ~ 2020. 01 ]
