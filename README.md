@@ -2,8 +2,6 @@
 배정은, <b>JeongEun Bae</b></br>
 동의대학교 컴퓨터소프트웨어공학과 4학년 1학기 재학 <b>中</b>
 
-관심 연구 분야 :  Natural Language Processing, Machine Learning, Computer Vision
-
 ---
 ```2019.04 ~```<br>
 
@@ -64,6 +62,7 @@ Phone : (+82) 010-8380-0922
 - 2021.06.02 정보처리기사 ```한국산업인력공단```
 <br></br>
 - **Certificate** :sparkles:
+  - DSAC 자격증 소개 :rewind: (Click Here!)[https://license.kpc.or.kr/nasec/qlfint/qlfint/selectDsac.do]
   - DSAC Data Scientist Academy & Certificate **Data Programming** ```Passed``` [ 2020. 08. 14 ]
   - DSAC Data Scientist Academy & Certificate **Data Process Analysis** ```Passed``` [ 2020. 09. 04 ]
   - DSAC Data Scientist Academy & Certificate **Machine Learning** ```Passed``` [ 2020. 09. 22 ]
