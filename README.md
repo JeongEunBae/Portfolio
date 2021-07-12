@@ -62,7 +62,7 @@ Phone : (+82) 010-8380-0922
 - 2021.06.02 정보처리기사 ```한국산업인력공단```
 <br></br>
 - **Certificate** :sparkles:
-  - [DSAC 자격증 소개](https://license.kpc.or.kr/nasec/qlfint/qlfint/selectDsac.do) :rewind: **Click Here!**
+  - [**DSAC 자격증 소개**](https://license.kpc.or.kr/nasec/qlfint/qlfint/selectDsac.do) :rewind: **Click Here!**
   - DSAC Data Scientist Academy & Certificate **Data Programming** ```Passed``` [ 2020. 08. 14 ]
   - DSAC Data Scientist Academy & Certificate **Data Process Analysis** ```Passed``` [ 2020. 09. 04 ]
   - DSAC Data Scientist Academy & Certificate **Machine Learning** ```Passed``` [ 2020. 09. 22 ]
