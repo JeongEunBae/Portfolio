@@ -26,6 +26,11 @@ Phone : (+82) 010-8380-0922
 - The Java® Language Specification 분석
 - 소프트웨어 품질 관리 및 Git을 사용한 형상 관리
 
+- **Project**
+  - ROS를 활용한 자율 주행 로봇 개발
+  
+    > 학교 건물 내에서 공간을 인지하여 엘리베이터를 직접 타고 건물 밖으로 이동하는 로봇에 관한 연구를 진행하였으며, 수행한 파트는 엘리베이터의 버튼과 강의실 팻말을 인식하는 연구
+
 ### 학술논문 :books:
 - '재난 극복을 위한 소상공인 기부 및 소비 촉진 플랫폼 설계 및 구현', ```2020 한국정보처리학회 추계학술발표대회``` [ 2020. 10. 19 ]
 ( Design and Implementation of a Platform to Promote Donation and Consumption of Small Businesses to Overcome Disasters )
