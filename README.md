@@ -58,6 +58,11 @@ Phone : (+82) 010-8380-0922
   > This study utilizes AI to recommend customized learning content to reduce the burden of teacher's class content production, and conducts research on educational platforms that analyze students' insufficient learning capabilities and also recommend content for them.
 
 - 'AI 콘텐츠 추천 및 제작 플랫폼에 관한 연구 (유아의 콘텐츠 소비 성향 분석을 기반)', ```2021 한국통신학회 하계학술대회``` [2021.06]
+  - 배정은, 장희숙, 박유현. "AI 콘텐츠 추천 및 제작 플랫폼에 관한 연구 (유아의 콘텐츠 소비 성향 분석을 기반)" 2021 한국통신학회 하계학술대회(2021)
+  
+  > Abstract
+
+  > 본 논문은 유아의 콘텐츠 소비 성향을 분석하여, 그에 맞게 AI를 활용하여 교육콘텐츠를 추천하고 부족한 콘텐츠들을 쉽게 제작할 수 있는 도구를 제공하는 플랫폼에 관한 연구를 수행한다. 유아의 스마트기기를 사용하는 빈도가 높으므로 유아의 성향 맞춤 교육 콘텐츠를 추천하여 주어진 환경에서 쉽게 지식을 터득할 수 있도록 조성한다. 교육 콘텐츠를 추천하는 알고리즘은 머신러닝을 활용한 콘텐츠 기반 필터링 알고리즘과 딥러닝의 기법인 KNN을 사용한 협업 기반 필터링 알고리즘의 장점을 조합하여 유아의 행동 패턴이 축적되어감에 따라 추천 결과의 정확도가 더욱 높아지는 결과를 도출할 수 있도록 설계하였다. 사용자가 원하는 교육 콘텐츠가 없을 때, 쉽게 제작할 수 있는 도구를 제공한다. 본 논문의 설계 결과를 활용하여 추후 교육 콘텐츠를 추천하고 제작할 수 있는 도구를 제공하는 웹 플랫폼 개발 연구를 수행할 계획이다.
 
 ### 자격증 :crown: 
 - 2017.03.24 리눅스 마스터 2급 ```한국정보통신진흥협회```
