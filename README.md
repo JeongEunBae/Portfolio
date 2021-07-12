@@ -76,6 +76,7 @@ Phone : (+82) 010-8380-0922
   - DSAC 데이터 사이언티스트 능력인증자격 전문교육훈련과정 ```M4.Deep Learning 교육과정``` 수료 [ 2020. 11. 21 ~ 2020. 11. 29 ]
 
 ### 소프트웨어 역량 검정(TOPCIT) :trophy:
+- [**TOPCIT 소개**](https://www.topcit.or.kr/information/biz.do) :rewind: **Click Here!**
 - 2021.05.22 TOPCIT, 3수준 415점(평균 득점 : 187.0점 상위 10% 득점 : 417.9점) 
 - **산업계 부합도 및 전체영역 진단결과**
 <img src="totalResult.PNG">
